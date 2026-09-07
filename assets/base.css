@@ -1,0 +1,13 @@
+@font-face{font-family:"Press";src:url("PressStart2P.ttf")}
+@font-face{font-family:"VT";src:url("VT323.ttf")}
+:root{--bg:#0b0f08;--surface:#10150c;--border:#26311f;--lime:#bbff00;--lime-dim:#8fc400;--frost:#9fd9ff;--ice:#cde9ff;--gold:#f5b324;--text:#eef3e6;--muted:#a7b39b;--dim:#66735c}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--text);font-family:"VT",monospace;overflow:hidden}
+.px{font-family:"Press",monospace}
+.pixelated{image-rendering:pixelated}
+.panel{position:relative;border:2px solid var(--border);background:var(--surface)}
+.panel::before{content:"";position:absolute;inset:0 0 auto 0;height:2px;background:linear-gradient(90deg,transparent,var(--frost),transparent);opacity:.35}
+.hud{font-family:"Press",monospace;font-size:9px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+.shelf{height:6px;background:linear-gradient(180deg,var(--ice),var(--frost) 60%,#6fa7c9);box-shadow:0 6px 0 rgba(0,0,0,.35)}
+.strip{position:absolute;left:0;right:0;bottom:0;height:36px;background:var(--lime);color:var(--bg);font-family:"Press",monospace;font-size:10px;letter-spacing:.14em;display:flex;align-items:center;white-space:nowrap;overflow:hidden}
+.strip span{padding:0 26px}
