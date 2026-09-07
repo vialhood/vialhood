@@ -153,17 +153,4 @@ vial page recomputes its traits in your browser. Rarity is provable, not claimed
 
 ---
 
-<div align="center">
-<sub>
-
-Vialhood is a collectible art project and a memecoin. The peptide names on vial labels are label codes
-in a pixel-art collection: nothing here is medical advice, no product is sold, and several named
-compounds are not approved for human use. Stock tickers and colourways are cultural references;
-Vialhood is not affiliated with, endorsed by, or connected to any company whose ticker appears on a
-vial, nor with Robinhood Markets. Tokenized stocks held in the fridge are price-tracking instruments,
-not shares; they are not redeemable by holders, and no payout, yield, or return is promised or implied.
-Vial rarity is a deterministic function of public data and confers no rights. `$VIALHOOD` is a token
-with no intrinsic value. Digital assets are volatile; never risk funds you cannot afford to lose.
-
-</sub>
-</div>
+<sub><b>Disclaimer.</b> Vialhood is a collectible art project and a memecoin. The peptide names on vial labels are label codes in a pixel-art collection: nothing here is medical advice, no product is sold, and several named compounds are not approved for human use. Stock tickers and colourways are cultural references; Vialhood is not affiliated with, endorsed by, or connected to any company whose ticker appears on a vial, nor with Robinhood Markets. Tokenized stocks held in the fridge are price-tracking instruments, not shares; they are not redeemable by holders, and no payout, yield, or return is promised or implied. Vial rarity is a deterministic function of public data and confers no rights. <code>$VIALHOOD</code> is a token with no intrinsic value. Digital assets are volatile; never risk funds you cannot afford to lose.</sub>
